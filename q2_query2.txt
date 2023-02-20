@@ -1,0 +1,378 @@
+TA, Crossing, Gate number, Time
+Sahil Goyal, ENTER, 1, 20:03:40
+Sahil Goyal, EXIT, 5, 20:15:49
+Sahil Goyal, ENTER, 1, 20:32:21
+Sahil Goyal, EXIT, 1, 20:37:50
+Sahil Goyal, ENTER, 5, 20:45:01
+Sahil Goyal, EXIT, 1, 20:57:45
+Sahil Goyal, ENTER, 1, 20:58:39
+Bhavya Jain, EXIT, 3, 20:00:40
+Bhavya Jain, ENTER, 5, 20:07:23
+Bhavya Jain, EXIT, 5, 20:41:24
+Bhavya Jain, ENTER, 1, 20:46:34
+Bhavya Jain, EXIT, 1, 20:55:31
+Bhavya Jain, ENTER, 1, 20:59:52
+Bhavya Jain, EXIT, 1, 20:59:57
+Thanmayee Matha, ENTER, 5, 20:09:27
+Thanmayee Matha, EXIT, 1, 20:14:12
+Thanmayee Matha, ENTER, 1, 20:20:57
+Thanmayee Matha, EXIT, 5, 20:28:36
+Thanmayee Matha, ENTER, 3, 20:41:14
+Thanmayee Matha, EXIT, 5, 20:46:26
+Thanmayee Matha, ENTER, 5, 20:57:34
+Khushdev Pandit, EXIT, 1, 20:00:14
+Khushdev Pandit, ENTER, 3, 20:00:18
+Khushdev Pandit, EXIT, 1, 20:00:30
+Khushdev Pandit, ENTER, 3, 20:01:04
+Khushdev Pandit, EXIT, 1, 20:01:32
+Khushdev Pandit, ENTER, 3, 20:02:10
+Khushdev Pandit, EXIT, 3, 20:02:38
+Khushdev Pandit, ENTER, 3, 20:02:38
+Khushdev Pandit, EXIT, 3, 20:04:06
+Khushdev Pandit, ENTER, 5, 20:04:21
+Khushdev Pandit, EXIT, 1, 20:04:28
+Khushdev Pandit, ENTER, 1, 20:04:34
+Khushdev Pandit, EXIT, 1, 20:04:54
+Khushdev Pandit, ENTER, 5, 20:05:57
+Khushdev Pandit, EXIT, 5, 20:07:16
+Khushdev Pandit, ENTER, 3, 20:07:20
+Khushdev Pandit, EXIT, 5, 20:08:47
+Khushdev Pandit, ENTER, 5, 20:08:55
+Khushdev Pandit, EXIT, 3, 20:09:33
+Khushdev Pandit, ENTER, 1, 20:09:53
+Khushdev Pandit, EXIT, 5, 20:11:08
+Khushdev Pandit, ENTER, 1, 20:11:52
+Khushdev Pandit, EXIT, 5, 20:12:05
+Khushdev Pandit, ENTER, 1, 20:12:13
+Khushdev Pandit, EXIT, 3, 20:12:15
+Khushdev Pandit, ENTER, 1, 20:12:27
+Khushdev Pandit, EXIT, 3, 20:12:49
+Khushdev Pandit, ENTER, 5, 20:13:12
+Khushdev Pandit, EXIT, 3, 20:14:05
+Khushdev Pandit, ENTER, 3, 20:14:09
+Khushdev Pandit, EXIT, 3, 20:14:10
+Khushdev Pandit, ENTER, 3, 20:14:19
+Khushdev Pandit, EXIT, 3, 20:14:26
+Khushdev Pandit, ENTER, 5, 20:14:41
+Khushdev Pandit, EXIT, 3, 20:14:54
+Khushdev Pandit, ENTER, 1, 20:16:05
+Khushdev Pandit, EXIT, 3, 20:16:33
+Khushdev Pandit, ENTER, 1, 20:17:17
+Khushdev Pandit, EXIT, 5, 20:17:26
+Khushdev Pandit, ENTER, 5, 20:17:40
+Khushdev Pandit, EXIT, 3, 20:19:07
+Khushdev Pandit, ENTER, 1, 20:19:24
+Khushdev Pandit, EXIT, 1, 20:19:36
+Khushdev Pandit, ENTER, 1, 20:19:39
+Khushdev Pandit, EXIT, 3, 20:20:06
+Khushdev Pandit, ENTER, 1, 20:22:00
+Khushdev Pandit, EXIT, 1, 20:22:01
+Khushdev Pandit, ENTER, 1, 20:22:13
+Khushdev Pandit, EXIT, 1, 20:22:34
+Khushdev Pandit, ENTER, 5, 20:23:17
+Khushdev Pandit, EXIT, 1, 20:23:49
+Khushdev Pandit, ENTER, 3, 20:23:55
+Khushdev Pandit, EXIT, 5, 20:24:01
+Khushdev Pandit, ENTER, 1, 20:24:30
+Khushdev Pandit, EXIT, 5, 20:25:11
+Khushdev Pandit, ENTER, 5, 20:25:15
+Khushdev Pandit, EXIT, 3, 20:26:08
+Khushdev Pandit, ENTER, 1, 20:26:23
+Khushdev Pandit, EXIT, 3, 20:26:26
+Khushdev Pandit, ENTER, 5, 20:26:33
+Khushdev Pandit, EXIT, 1, 20:26:39
+Khushdev Pandit, ENTER, 5, 20:26:49
+Khushdev Pandit, EXIT, 1, 20:27:13
+Khushdev Pandit, ENTER, 5, 20:27:30
+Khushdev Pandit, EXIT, 1, 20:27:48
+Khushdev Pandit, ENTER, 5, 20:27:53
+Khushdev Pandit, EXIT, 3, 20:28:00
+Khushdev Pandit, ENTER, 3, 20:28:09
+Khushdev Pandit, EXIT, 1, 20:28:14
+Khushdev Pandit, ENTER, 5, 20:28:21
+Khushdev Pandit, EXIT, 1, 20:28:37
+Khushdev Pandit, ENTER, 1, 20:28:44
+Khushdev Pandit, EXIT, 1, 20:28:55
+Khushdev Pandit, ENTER, 3, 20:30:21
+Khushdev Pandit, EXIT, 3, 20:30:37
+Khushdev Pandit, ENTER, 5, 20:31:44
+Khushdev Pandit, EXIT, 3, 20:33:26
+Khushdev Pandit, ENTER, 1, 20:33:35
+Khushdev Pandit, EXIT, 3, 20:33:51
+Khushdev Pandit, ENTER, 1, 20:34:11
+Khushdev Pandit, EXIT, 3, 20:34:50
+Khushdev Pandit, ENTER, 1, 20:35:19
+Khushdev Pandit, EXIT, 5, 20:35:31
+Khushdev Pandit, ENTER, 1, 20:35:46
+Khushdev Pandit, EXIT, 1, 20:35:47
+Khushdev Pandit, ENTER, 5, 20:36:26
+Khushdev Pandit, EXIT, 5, 20:37:03
+Khushdev Pandit, ENTER, 3, 20:37:23
+Khushdev Pandit, EXIT, 3, 20:38:05
+Khushdev Pandit, ENTER, 5, 20:38:23
+Khushdev Pandit, EXIT, 5, 20:38:38
+Khushdev Pandit, ENTER, 5, 20:39:12
+Khushdev Pandit, EXIT, 5, 20:40:18
+Khushdev Pandit, ENTER, 1, 20:41:44
+Khushdev Pandit, EXIT, 3, 20:41:51
+Khushdev Pandit, ENTER, 5, 20:41:55
+Khushdev Pandit, EXIT, 3, 20:42:19
+Khushdev Pandit, ENTER, 3, 20:42:36
+Khushdev Pandit, EXIT, 5, 20:43:08
+Khushdev Pandit, ENTER, 5, 20:43:08
+Khushdev Pandit, EXIT, 1, 20:44:12
+Khushdev Pandit, ENTER, 5, 20:44:25
+Khushdev Pandit, EXIT, 5, 20:44:30
+Khushdev Pandit, ENTER, 1, 20:44:55
+Khushdev Pandit, EXIT, 3, 20:45:00
+Khushdev Pandit, ENTER, 1, 20:45:52
+Khushdev Pandit, EXIT, 1, 20:46:19
+Khushdev Pandit, ENTER, 1, 20:46:25
+Khushdev Pandit, EXIT, 1, 20:46:45
+Khushdev Pandit, ENTER, 3, 20:46:48
+Khushdev Pandit, EXIT, 3, 20:47:11
+Khushdev Pandit, ENTER, 3, 20:47:31
+Khushdev Pandit, EXIT, 3, 20:47:50
+Khushdev Pandit, ENTER, 5, 20:48:06
+Khushdev Pandit, EXIT, 1, 20:48:52
+Khushdev Pandit, ENTER, 1, 20:50:09
+Khushdev Pandit, EXIT, 1, 20:50:34
+Khushdev Pandit, ENTER, 1, 20:50:49
+Khushdev Pandit, EXIT, 3, 20:51:09
+Khushdev Pandit, ENTER, 5, 20:54:12
+Khushdev Pandit, EXIT, 5, 20:54:37
+Khushdev Pandit, ENTER, 3, 20:54:43
+Khushdev Pandit, EXIT, 3, 20:54:54
+Khushdev Pandit, ENTER, 5, 20:55:19
+Khushdev Pandit, EXIT, 1, 20:55:52
+Khushdev Pandit, ENTER, 3, 20:56:19
+Khushdev Pandit, EXIT, 1, 20:57:28
+Khushdev Pandit, ENTER, 1, 20:58:11
+Khushdev Pandit, EXIT, 3, 20:58:48
+Khushdev Pandit, ENTER, 3, 20:59:22
+Rohan Dhar, ENTER, 3, 20:04:03
+Rohan Dhar, EXIT, 5, 20:18:47
+Rohan Dhar, ENTER, 1, 20:29:48
+Rohan Dhar, EXIT, 5, 20:33:15
+Rohan Dhar, ENTER, 3, 20:37:50
+Rohan Dhar, EXIT, 3, 20:37:54
+Rohan Dhar, ENTER, 1, 20:40:38
+Rohan Dhar, EXIT, 1, 20:45:50
+Bharat Goyal, EXIT, 1, 20:03:09
+Bharat Goyal, ENTER, 1, 20:12:10
+Bharat Goyal, EXIT, 1, 20:52:42
+Bharat Goyal, ENTER, 5, 20:58:00
+Snehal, EXIT, 1, 20:02:27
+Snehal, ENTER, 5, 20:06:44
+Snehal, EXIT, 1, 20:11:05
+Snehal, ENTER, 1, 20:11:26
+Snehal, EXIT, 1, 20:24:39
+Snehal, ENTER, 1, 20:25:55
+Snehal, EXIT, 5, 20:26:16
+Snehal, ENTER, 3, 20:35:10
+Thakkar Divyakumar Rameshbhai, EXIT, 5, 20:00:15
+Thakkar Divyakumar Rameshbhai, ENTER, 5, 20:02:38
+Thakkar Divyakumar Rameshbhai, EXIT, 5, 20:04:22
+Thakkar Divyakumar Rameshbhai, ENTER, 5, 20:04:51
+Thakkar Divyakumar Rameshbhai, EXIT, 1, 20:07:49
+Thakkar Divyakumar Rameshbhai, ENTER, 3, 20:09:06
+Thakkar Divyakumar Rameshbhai, EXIT, 3, 20:21:27
+Thakkar Divyakumar Rameshbhai, ENTER, 5, 20:26:45
+Thakkar Divyakumar Rameshbhai, EXIT, 3, 20:30:07
+Thakkar Divyakumar Rameshbhai, ENTER, 1, 20:32:43
+Thakkar Divyakumar Rameshbhai, EXIT, 1, 20:57:52
+Aryan Chaudhary, EXIT, 1, 20:03:18
+Aryan Chaudhary, ENTER, 1, 20:08:37
+Aryan Chaudhary, EXIT, 3, 20:13:53
+Aryan Chaudhary, ENTER, 1, 20:21:47
+Aryan Chaudhary, EXIT, 3, 20:28:55
+Aryan Chaudhary, ENTER, 1, 20:29:22
+Aryan Chaudhary, EXIT, 3, 20:36:54
+Karan Baboota, ENTER, 5, 20:15:07
+Karan Baboota, EXIT, 1, 20:33:52
+Karan Baboota, ENTER, 5, 20:47:29
+Karan Baboota, EXIT, 5, 20:50:09
+Karan Baboota, ENTER, 1, 20:50:19
+Karan Baboota, EXIT, 1, 20:51:30
+Smiti Singhal, EXIT, 3, 20:17:43
+Smiti Singhal, ENTER, 5, 20:26:03
+Smiti Singhal, EXIT, 5, 20:28:05
+Smiti Singhal, ENTER, 3, 20:32:22
+Smiti Singhal, EXIT, 3, 20:35:08
+Smiti Singhal, ENTER, 1, 20:35:54
+Smiti Singhal, EXIT, 3, 20:37:21
+Smiti Singhal, ENTER, 1, 20:40:45
+Smiti Singhal, EXIT, 3, 20:41:21
+Smiti Singhal, ENTER, 1, 20:47:17
+Smiti Singhal, EXIT, 3, 20:47:27
+Shambhavi Sharma, EXIT, 3, 20:05:02
+Shambhavi Sharma, ENTER, 5, 20:17:16
+Shambhavi Sharma, EXIT, 1, 20:22:37
+Shambhavi Sharma, ENTER, 5, 20:23:15
+Shambhavi Sharma, EXIT, 5, 20:25:12
+Shambhavi Sharma, ENTER, 1, 20:37:29
+Rishabh Oberoi, EXIT, 1, 20:09:30
+Rishabh Oberoi, ENTER, 3, 20:20:44
+Rishabh Oberoi, EXIT, 1, 20:23:16
+Rishabh Oberoi, ENTER, 5, 20:31:04
+Rishabh Oberoi, EXIT, 3, 20:40:43
+Rishabh Oberoi, ENTER, 5, 20:42:04
+Rishabh Oberoi, EXIT, 5, 20:49:30
+Kartik Gupta, ENTER, 5, 20:32:46
+Kartik Gupta, EXIT, 1, 20:40:03
+Kartik Gupta, ENTER, 3, 20:42:11
+Sushil Kumar, ENTER, 5, 20:21:06
+Sushil Kumar, EXIT, 3, 20:24:10
+Sushil Kumar, ENTER, 1, 20:39:13
+Sushil Kumar, EXIT, 5, 20:41:41
+Gayam Shivakanth Reddy, EXIT, 3, 20:01:00
+Gayam Shivakanth Reddy, ENTER, 1, 20:03:40
+Gayam Shivakanth Reddy, EXIT, 3, 20:04:51
+Gayam Shivakanth Reddy, ENTER, 1, 20:06:09
+Gayam Shivakanth Reddy, EXIT, 3, 20:27:09
+Gayam Shivakanth Reddy, ENTER, 5, 20:37:26
+Gayam Shivakanth Reddy, EXIT, 3, 20:40:27
+Manas, EXIT, 5, 20:04:28
+Manas, ENTER, 3, 20:19:45
+Manas, EXIT, 3, 20:25:32
+Manas, ENTER, 1, 20:37:17
+Manas, EXIT, 1, 20:55:11
+Aditya Raj Singh, EXIT, 5, 20:09:06
+Aditya Raj Singh, ENTER, 5, 20:20:05
+Aditya Raj Singh, EXIT, 5, 20:24:29
+Aditya Raj Singh, ENTER, 5, 20:25:16
+Aditya Raj Singh, EXIT, 1, 20:27:18
+Aditya Raj Singh, ENTER, 1, 20:28:05
+Aditya Raj Singh, EXIT, 3, 20:31:28
+Aditya Raj Singh, ENTER, 3, 20:32:13
+Aditya Raj Singh, EXIT, 1, 20:35:26
+Aditya Raj Singh, ENTER, 1, 20:40:30
+Aditya Raj Singh, EXIT, 3, 20:49:03
+Swaib Ilias Mazumder, EXIT, 1, 20:02:09
+Swaib Ilias Mazumder, ENTER, 1, 20:12:07
+Swaib Ilias Mazumder, EXIT, 5, 20:16:45
+Swaib Ilias Mazumder, ENTER, 5, 20:24:03
+Swaib Ilias Mazumder, EXIT, 3, 20:31:19
+Swaib Ilias Mazumder, ENTER, 5, 20:51:14
+Swaib Ilias Mazumder, EXIT, 5, 20:52:03
+Swaib Ilias Mazumder, ENTER, 5, 20:55:55
+Vamshi Krishna Vannekala, EXIT, 5, 20:15:48
+Vamshi Krishna Vannekala, ENTER, 1, 20:21:05
+Vamshi Krishna Vannekala, EXIT, 1, 20:31:53
+Vamshi Krishna Vannekala, ENTER, 3, 20:39:14
+Vamshi Krishna Vannekala, EXIT, 5, 20:54:01
+Vamshi Krishna Vannekala, ENTER, 3, 20:55:08
+Anuj Yadav, EXIT, 3, 20:15:14
+Anuj Yadav, ENTER, 5, 20:21:57
+Anuj Yadav, EXIT, 5, 20:23:11
+Anuj Yadav, ENTER, 5, 20:24:35
+Anuj Yadav, EXIT, 5, 20:45:43
+Anuj Yadav, ENTER, 1, 20:50:05
+Anuj Yadav, EXIT, 1, 20:50:25
+Shraman Jain, ENTER, 1, 20:02:55
+Shraman Jain, EXIT, 1, 20:26:45
+Shraman Jain, ENTER, 1, 20:30:45
+Shraman Jain, EXIT, 5, 20:33:29
+Shraman Jain, ENTER, 1, 20:37:23
+Shraman Jain, EXIT, 1, 20:43:04
+Shraman Jain, ENTER, 5, 20:51:46
+Vibhor Agarwal, ENTER, 3, 20:02:28
+Vibhor Agarwal, EXIT, 5, 20:10:21
+Vibhor Agarwal, ENTER, 1, 20:14:38
+Vibhor Agarwal, EXIT, 5, 20:42:10
+Vibhor Agarwal, ENTER, 3, 20:43:18
+Vibhor Agarwal, EXIT, 5, 20:43:59
+Vibhor Agarwal, ENTER, 5, 20:48:50
+Vibhor Agarwal, EXIT, 3, 20:59:11
+Surbhi Goyal, EXIT, 5, 20:06:37
+Surbhi Goyal, ENTER, 5, 20:13:58
+Surbhi Goyal, EXIT, 5, 20:16:44
+Surbhi Goyal, ENTER, 5, 20:23:35
+Surbhi Goyal, EXIT, 5, 20:33:10
+Surbhi Goyal, ENTER, 1, 20:47:32
+Surbhi Goyal, EXIT, 5, 20:51:32
+Shashank Dargar, ENTER, 3, 20:06:45
+Shashank Dargar, EXIT, 5, 20:09:29
+Shashank Dargar, ENTER, 1, 20:19:52
+Shashank Dargar, EXIT, 1, 20:32:00
+Shashank Dargar, ENTER, 3, 20:32:45
+Shashank Dargar, EXIT, 1, 20:34:33
+Shashank Dargar, ENTER, 5, 20:36:16
+Shashank Dargar, EXIT, 5, 20:37:43
+Shashank Dargar, ENTER, 5, 20:57:55
+Shashank Dargar, EXIT, 1, 20:58:58
+Param Shah, EXIT, 5, 20:01:39
+Param Shah, ENTER, 5, 20:04:34
+Param Shah, EXIT, 5, 20:06:27
+Param Shah, ENTER, 3, 20:23:07
+Param Shah, EXIT, 3, 20:23:24
+Param Shah, ENTER, 5, 20:28:17
+Param Shah, EXIT, 1, 20:50:21
+Param Shah, ENTER, 1, 20:53:03
+Swatantra kumar nigam, EXIT, 1, 20:06:09
+Swatantra kumar nigam, ENTER, 1, 20:10:16
+Swatantra kumar nigam, EXIT, 3, 20:10:28
+Swatantra kumar nigam, ENTER, 1, 20:28:45
+Swatantra kumar nigam, EXIT, 5, 20:30:31
+Swatantra kumar nigam, ENTER, 1, 20:45:18
+Swatantra kumar nigam, EXIT, 3, 20:46:57
+Swatantra kumar nigam, ENTER, 1, 20:50:27
+Swatantra kumar nigam, EXIT, 3, 20:53:49
+Swatantra kumar nigam, ENTER, 3, 20:57:48
+Ujjwal Garg, ENTER, 1, 20:15:35
+Ujjwal Garg, EXIT, 1, 20:16:51
+Ujjwal Garg, ENTER, 5, 20:25:51
+Ujjwal Garg, EXIT, 3, 20:46:33
+Ujjwal Garg, ENTER, 3, 20:50:59
+Ujjwal Garg, EXIT, 3, 20:53:38
+Ujjwal Garg, ENTER, 1, 20:54:26
+Ujjwal Garg, EXIT, 5, 20:58:44
+Swati Jha, EXIT, 5, 20:03:14
+Swati Jha, ENTER, 5, 20:06:23
+Swati Jha, EXIT, 3, 20:14:30
+Swati Jha, ENTER, 5, 20:44:30
+Ayush Srivastava, EXIT, 5, 20:00:08
+Ayush Srivastava, ENTER, 3, 20:11:51
+Ayush Srivastava, EXIT, 5, 20:15:37
+Ayush Srivastava, ENTER, 3, 20:32:27
+Ayush Srivastava, EXIT, 3, 20:38:06
+Ayush Srivastava, ENTER, 5, 20:42:01
+Ayush Srivastava, EXIT, 1, 20:57:29
+Ayush Srivastava, ENTER, 1, 20:58:03
+Mohammed Kaif, EXIT, 3, 20:16:07
+Mohammed Kaif, ENTER, 5, 20:16:32
+Mohammed Kaif, EXIT, 1, 20:29:47
+Mohammed Kaif, ENTER, 5, 20:39:42
+Mohammed Kaif, EXIT, 1, 20:55:53
+Mohammed Kaif, ENTER, 3, 20:56:56
+Mohammed Kaif, EXIT, 3, 20:57:18
+Mohammed Kaif, ENTER, 1, 20:58:41
+Yuvraj Singh, EXIT, 3, 20:43:40
+Yuvraj Singh, ENTER, 3, 20:49:46
+Rishika Jain, EXIT, 1, 20:00:16
+Rishika Jain, ENTER, 1, 20:01:59
+Rishika Jain, EXIT, 5, 20:19:14
+Rishika Jain, ENTER, 1, 20:23:32
+Rishika Jain, EXIT, 1, 20:39:04
+Rishika Jain, ENTER, 3, 20:40:51
+Sumit Kumar, EXIT, 1, 20:21:14
+Sumit Kumar, ENTER, 1, 20:27:11
+Sumit Kumar, EXIT, 5, 20:39:24
+Sumit Kumar, ENTER, 5, 20:55:02
+Dhruv Mishra, EXIT, 1, 20:20:41
+Dhruv Mishra, ENTER, 1, 20:22:54
+Dhruv Mishra, EXIT, 5, 20:23:21
+Dhruv Mishra, ENTER, 1, 20:35:25
+Dhruv Mishra, EXIT, 1, 20:55:05
+Ankita Mahato, ENTER, 3, 20:00:54
+Ankita Mahato, EXIT, 1, 20:33:40
+Ankita Mahato, ENTER, 1, 20:58:12
+Ankita Mahato, EXIT, 1, 20:59:32
+Manav Saini, ENTER, 1, 20:06:06
+Manav Saini, EXIT, 1, 20:07:26
+Manav Saini, ENTER, 5, 20:20:36
+Manav Saini, EXIT, 5, 20:32:07
+Manav Saini, ENTER, 1, 20:33:19
+Manav Saini, EXIT, 5, 20:34:08
+Manav Saini, ENTER, 3, 20:38:58
+Manav Saini, EXIT, 5, 20:49:27

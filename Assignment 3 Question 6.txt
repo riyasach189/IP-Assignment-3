@@ -1,0 +1,72 @@
+#COMPLETED
+
+Goal is to develop an application for grading in courses at IIIT-Delhi. The application should 
+provide for (i) creating a course for grading with its name, credits, list of assessments with 
+percentage  weight for each (e.g. [("quiz", 5), ("mid-sem", 15), …], a grading policy as a list 
+percent for different grades (we will assume that only grades are: A, B, C, D, and F, so this 
+can be [80, 65, 50, 40, 30] (i.e. A above 80, B between 80 and 65, …, F below 30). However, the 
+final cutoff for each grade will be within +/- 2 of the percent specified (i.e. for A it will be 
+between 78 and 82) - it will be the higher of two consecutive marks within this range which have 
+the highest difference. (So, if the marks are 81.9, 81.8, 81.7, 81, 80.9, 80.8…, then the cutoff 
+will be midpoint of 81.7 and 81, which has a largest gap  (ii) adding students' marks for all 
+assessments given in a file - these will be rollno followed by marks for each.  Once marks are 
+given, it should do the grading - apply the policy to determine the grade for each student. 
+
+It should then ask the professor what he wants to do: 1. Generate a summary - which should print 
+the course info (name, credits), assessments and their weight, cutoffs for different grades, and 
+grading summary (how many As, how many Bs, etc) 2. Print the grades of all the students in a 
+file as: rollno, total marks, grade (one line for each student). 3. Search for a student 
+record - given the roll no, show marks in different assessments, total marks, and final grade.
+
+Develop this program and use it for grading the "IP" course. The assessments and the grading policy 
+is given below (in the main program steps)
+
+The main program can be something like (rough sketch):
+
+1.cname, credits = "IP", 4
+2.assessments = [("labs", 30), ("midsem", 15), ("assignments", 30), ("endsem", 25)] 
+3.policy = [80, 65, 50, 40, 30]
+4.create-IP course (cname, credits, assessments, policy)
+5.Upload-marks data - call a function/method with input as marks.txt
+6.doGrading - call a function/method 
+7.Loop asking for what operation (1, 2, 3); perform the operation till no input given
+
+Compare the two approaches/code: (A): In your view what are the two pros and cons of the two 
+approaches. (B) Compare the performance of these two in terms of time taken. For this, use the 
+package time. For measuring time taken, run the grading operation N (say 1000) number of times, 
+and run searching for student N number of times (you can pick up a roll no randomly, or just give 
+a few roll nos in a list and go through them repeatedly) and then compute the time for the two, 
+summarizing which one is faster for (i) grading operation, and which one for (ii) search operation 
+and by how much (takes what fraction of time of the other)
+
+The answer to this question should be be in a .txt file, containing:
+
+Advantages of using OO
+1. more natural way of approaching the code; easier to formulate the structure of the code; more readable code
+2. attribute names can be repeated
+
+Advantages of using Dictionaries
+1. separate dicts for separate records, eg. marks, grades, etc.
+2. no confusion between attributes and methods
+
+Disadvantage of using OO
+1. slower code in general
+2. confusion between attributes and methods
+
+Disadvantage of using dictionaries
+1. difficult to keep track of keys and values of all dictionaries
+2. dictionaries and functions don't have any connection; bad software design
+
+Performance comparison for grading operation (give in each line: value of N; time taken by two 
+approaches in seconds, and which is faster and by how much).
+1. N: 10000
+2. Time by OO: 0.014603049755096435 seconds
+3. Time by dictionary: 0.016503298282623292 seconds
+4. OO is faster; fraction of time OO took is: 0.884856439301732
+
+Performance comparison for search operation (give in each line: value of N; time taken by two 
+approaches in seconds, and which is faster and by how much).
+1. N: 10000
+2. Time by OO: 0.004397900104522705 seconds
+3. Time by dictionary: 0.0035261440277099608 seconds
+4. Dictionary is faster; fraction of time dictionary took is: 0.8017790181463537

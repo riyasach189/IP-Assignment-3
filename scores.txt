@@ -1,0 +1,15 @@
+file00.txt
+Score: 7.147368421052632
+Five Most Used Words: ['the', 'to', 'i', 'and', 'on']
+Five Random Words: ['to', 'on', 'strict', 'park', 'and']
+
+file01.txt
+Score: 3.5084192123665803
+Five Most Used Words: ['the', 'that', 'her', 'jack', 'not']
+Five Random Words: ['mouth', 'suggestions', 'mouth', 'were', 'walked']
+
+file02.txt
+Score: 6.970608339029391
+Five Most Used Words: ['the', 'had', 'it', 'that', 'to']
+Five Random Words: ['love', 'the', 'it', 'she', 'difficult']
+
